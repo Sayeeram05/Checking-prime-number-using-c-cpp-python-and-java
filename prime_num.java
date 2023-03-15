@@ -1,5 +1,5 @@
 import java.util.*;
-class jas
+class prime_num
 {
     public static void main(String args[])
     {
